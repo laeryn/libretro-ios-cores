@@ -1,4 +1,4 @@
 # libretro-ios-cores
 
 ## Installation
-`RetroArch/apple/iOS/modules`
+Copy all cores to: `RetroArch/apple/iOS/modules`
